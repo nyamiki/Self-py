@@ -13,7 +13,7 @@ f()
 # 2
 def f():
     """
-    彼女の名前を入力すると愛の告白が行われます
+    彼女の名前を入力すると告白が行われます
     """
     x = input("type youre GF:")
     print("I love " + x)
@@ -54,6 +54,6 @@ def strings(x):
     except ValueError:
         print("str cannot type")
 
-strings("hina")
+strings("pii")
 
 # 6
